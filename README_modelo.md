@@ -1,17 +1,16 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome: Pedro Torres**  
+- **Número: 22602923**  
+- **Turma: 1**  
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+Adiciona informações pessoais
 
 ---
 
 ## Observações (opcional)
-
 estas observacoes sao irrelevantes.)
