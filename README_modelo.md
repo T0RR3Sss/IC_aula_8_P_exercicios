@@ -13,5 +13,4 @@ Adiciona informações pessoais
 ---
 
 ## Observações (opcional)
-estas observacoes sao irrelevantes.)
-blah
+blablabla
